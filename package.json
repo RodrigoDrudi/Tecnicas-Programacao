@@ -1,0 +1,24 @@
+{
+  "name": "tecnicas-programacao",
+  "version": "1.0.0",
+  "description": "Projeto Aula Tec_Programacao",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RodrigoDrudi/Tecnicas-Programacao.git"
+  },
+  "keywords": [
+    "aula",
+    "node",
+    "npm"
+  ],
+  "author": "Drudi_Cria",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RodrigoDrudi/Tecnicas-Programacao/issues"
+  },
+  "homepage": "https://github.com/RodrigoDrudi/Tecnicas-Programacao#readme"
+}
